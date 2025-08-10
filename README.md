@@ -25,6 +25,10 @@ Thanks to **Gemini API integration**, you can even generate blog drafts in secon
 
 ---
 
+- ✅ **API endpoints thoroughly tested using Postman** to ensure stability and accuracy.
+
+
+---
 ## 🛠 Tech Stack
 
 ### Frontend
