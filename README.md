@@ -50,3 +50,8 @@ Post anything you believe in — just keep it respectful and within the law.
 
 
 💡 _QuickBlog is built to be developer-friendly, easy to set up, and flexible enough to extend for your own projects._
+
+
+## 📜 License
+This project is licensed under the **MIT License** (file added in the main branch)
+
