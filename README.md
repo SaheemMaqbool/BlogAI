@@ -1,6 +1,6 @@
-# 📝 QuickBlog
+# 📝 sahemBlog
 
-🚀 **QuickBlog** is a AI enabled , clean and fast full-stack personal blogging platform built using the MERN stack.  
+🚀 **sahemBlog** is a AI enabled , clean and fast full-stack personal blogging platform built using the MERN stack.  
 It’s designed for developers, writers, and content creators who want a simple yet powerful way to share their ideas online.  
 
 With real-time Markdown editing, a smooth admin dashboard, secure JWT login, and ImageKit integration for easy image uploads, QuickBlog makes publishing stress-free.  
@@ -53,7 +53,7 @@ QuickBlog supports **free expression** but not hate speech, harassment, or illeg
 Post anything you believe in — just keep it respectful and within the law.
 
 
-💡 _QuickBlog is built to be developer-friendly, easy to set up, and flexible enough to extend for your own projects._
+💡 _sahemBlog is built to be developer-friendly, easy to set up, and flexible enough to extend for your own projects._
 
 
 ## 📜 License
